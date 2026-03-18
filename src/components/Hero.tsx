@@ -1,6 +1,7 @@
 import { motion } from 'motion/react';
 import { ArrowRight, Download, Terminal } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import resumePDF from '../assets/files/PersonalResume.pdf';
 
 export default function Hero() {
   return (
@@ -44,7 +45,7 @@ export default function Hero() {
             
             <div className="space-y-4 mb-8 max-w-lg">
               <p className="text-lg sm:text-xl text-text-muted leading-relaxed">
-                Master of Computer Science graduate specialising in Data Science and AI. Hands-on experience in leading full-stack AI projects, including multi-task learning models and high-performance image classification systems. Proficient in R, Python, and MLOps, with a focus on delivering high-accuracy models and enhancing system efficiency through data-driven insights. Dedicated to delivering efficient IT solutions and enhancing user experience.
+                Master of Computer Science graduate, specialising in Data Science and AI. Hands-on experience in leading full-stack AI projects, including multi-task learning models and high-performance image classification systems. Proficient in R, Python, and MLOps, with a focus on delivering high-accuracy models and enhancing system efficiency through data-driven insights. Dedicated to delivering efficient IT solutions and enhancing user experience.
               </p>
               <p className="text-lg sm:text-xl text-text-muted leading-relaxed">
                 Currently <span className="font-semibold text-primary">open to work</span> and looking for my next challenge in the tech industry. If my profile aligns with your team's goals, <span className="font-semibold text-primary">let’s talk!</span>
@@ -60,7 +61,8 @@ export default function Hero() {
                 <ArrowRight className="w-4 h-4" />
               </Link>
               <a
-                href="#contact"
+                href={resumePDF}
+                download="PersonalResume.pdf"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-bg text-text border border-border rounded-xl font-medium hover:bg-bg-secondary transition-colors focus:ring-2 focus:ring-offset-2 focus:ring-border focus:ring-offset-bg"
               >
                 <Download className="w-4 h-4" />
