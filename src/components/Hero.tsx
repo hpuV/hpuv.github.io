@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { ArrowRight, Download, Terminal } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import resumePDF from '../assets/files/PersonalResume.pdf';
+import resumePDF from '../assets/files/CALiuResume.pdf';
 
 export default function Hero() {
   return (
