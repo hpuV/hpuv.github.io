@@ -97,13 +97,13 @@ export default function Hero() {
                 <div className="text-text-muted mb-2">$ cat skills.json</div>
                 <div className="text-indigo-300 mb-4">
                   {`{
-  "languages": ["Python", "R", "C/C++", "Java", "Swift"],
-  "data_ai": ["Machine Learning", "Data Mining", "Data Analysis"],
-  "web_db": ["MEAN Stack", "SQL", "PHP", "HTML/CSS"],
-  "tools": ["Git", "Docker"]
-}`}
+                    "languages": ["Python", "R", "C/C++", "Java", "Swift"],
+                    "data_ai": ["Machine Learning", "Data Mining", "Data Analysis"],
+                    "web_db": ["MEAN Stack", "SQL", "PHP", "HTML/CSS"],
+                    "tools": ["Git", "Docker"]
+                  }`}
                 </div>
-                
+
                 <div className="text-text-muted mb-2">$ echo $STATUS</div>
                 <div className="text-primary flex items-center gap-2">
                   Ready to collaborate <span className="animate-pulse">_</span>
