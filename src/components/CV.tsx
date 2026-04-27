@@ -75,9 +75,9 @@ export default function CV() {
                 <p className="text-purple-600 font-medium mb-2">National PingTung University</p>
                 <p className="text-secondary text-sm mb-3">Oct. 2023 ~ Jul. 2024 | PingTung, Taiwan</p>
                 <ul className="list-disc list-inside text-text-muted space-y-1">
-                  <li>Conducted research in information security areas, focusing on Reversible Data Hiding techniques for secure data transmission.</li>
-                  <li>Collaborated with members to resolve challenges in interpreting journals, reducing literature review time and improving experimental accuracy.</li>
-                  <li>Analysed multiple journals, identifying key methods, evaluating strengths and weaknesses, and validating findings through experimental data.</li>
+                  <li>Optimised Reversible Data Hiding (RDH) algorithms to enhance data embedding capacity (EC) by 13%, ensuring image data integrity.</li>
+                  <li>Synthesized research from multiple journals to identify and evaluate optimal methodologies.</li>
+                  <li>Established a standardized literature review process that improved the precision of experiment reproduction and validation.</li>
                 </ul>
               </div>
               <div className="relative">

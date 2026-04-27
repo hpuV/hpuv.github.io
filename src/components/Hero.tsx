@@ -45,7 +45,7 @@ export default function Hero() {
             
             <div className="space-y-4 mb-8 max-w-lg">
               <p className="text-lg sm:text-xl text-text-muted leading-relaxed">
-                Master of Computer Science graduate, specialising in Data Science and AI. Hands-on experience in leading full-stack AI projects, including multi-task learning models and high-performance image classification systems. Proficient in R, Python, and MLOps, with a focus on delivering high-accuracy models and enhancing system efficiency through data-driven insights. Dedicated to delivering efficient IT solutions and enhancing user experience.
+                Master of Computer Science graduate, specialising in Data Science and AI. Experience in leading full-stack AI projects. Proficient in Python and MLOps, with a focus on delivering high-accuracy models and enhancing system efficiency through data-driven insights. Dedicated to deliver efficient IT solutions and enhance user experience.
               </p>
               <p className="text-lg sm:text-xl text-text-muted leading-relaxed">
                 Currently <span className="font-semibold text-primary">open to work</span> and looking for my next challenge in the tech industry. If my profile aligns with your team's goals, <span className="font-semibold text-primary">let’s talk!</span>
