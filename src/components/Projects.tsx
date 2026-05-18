@@ -12,6 +12,7 @@ import bachelorCapstoneReportPdf from '../assets/files/BachelorCapstoneReport.pd
 import resExpProjectPdf from '../assets/files/ResidentialExperiencePresentation.pdf';
 import colonImageReportPdf from '../assets/files/ColonImageClassifyReport.pdf';
 import companyAcqReportPdf from '../assets/files/CompanyAcquisitionReport.pdf';
+import OldPhoneWebAppPresentationPdf from '../assets/files/OldPhoneDealsWebApplicationPresentation.pdf';
 
 interface Project {
   title: string;
@@ -35,7 +36,7 @@ export default function Projects() {
         </>
       ),
       image: pollinatorProjectImg,
-      tags: ['Python', 'YOLO', 'Vision Transformer', 'Docker', 'Full-Stack'],
+      tags: ['Python', 'YOLO', 'Vision Transformer', 'Docker', 'Full-Stack', 'AI Analysis Platform'],
       presentation: pollinatorProjectPresentationPdf,
       video: 'https://youtu.be/x1Q3w7FKB1w',
     },
@@ -47,7 +48,7 @@ export default function Projects() {
         </>
       ),
       image: bachelorCapstoneProjectImg,
-      tags: ['Face Recoginition', 'Visual Speech Recoginition', 'Machine Learning', 'Research', 'Python'],
+      tags: ['Face Recoginition', 'Visual Speech Recoginition', 'Machine Learning', 'Reversible Data Hiding', 'Research'],
       report: bachelorCapstoneReportPdf,
       video: 'https://youtu.be/eGEFksBydkU',
     },
@@ -93,7 +94,8 @@ export default function Projects() {
         </>
       ),
       image: eComerceWebProjectImg,
-      tags: ['Full-stack', 'UI Development', 'Backend Integration', 'Web Architecture'],
+      tags: ['Full-stack', 'MEAN Stack', 'MVC Architecture', 'SPA Principle', 'Data Security'],
+      presentation: OldPhoneWebAppPresentationPdf,
     },
   ];
 
