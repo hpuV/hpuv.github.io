@@ -32,7 +32,7 @@ export default function CV() {
               </div>
               <div className="relative">
                 <div className="absolute -left-[41px] top-1 w-5 h-5 rounded-full bg-bg border-4 border-primary/20"></div>
-                <h4 className="text-lg font-bold text-text">National PingTung University</h4>
+                <h4 className="text-lg font-bold text-text">National Pingtung University</h4>
                 <p className="text-primary font-medium mb-2">Bachelor of Computer Science and Artificial Intelligence</p>
                 <p className="text-secondary text-sm mb-3">Sep. 2020 ~ Jun. 2024 | PingTung, Taiwan</p>
                 <ul className="list-disc list-inside text-text-muted space-y-1">

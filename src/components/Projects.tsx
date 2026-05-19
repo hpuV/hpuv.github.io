@@ -90,11 +90,11 @@ export default function Projects() {
       title: 'eCommerce Web Application',
       description: (
         <>
-          Web Application Development: Led the development of a <span className="font-semibold text-[#38BDF8]">full-stack web application</span>. Translated requirements into functional <span className="font-semibold text-[#38BDF8]">frontend interfaces</span> and <span className="font-semibold text-[#38BDF8]">backend logic</span>. Optimized page flow, data handling, and overall system usability based on structural insights from existing platforms.
+          Web Application Development: Developed a <span className="font-semibold text-[#38BDF8]">full-stack web application “OldPhoneDeals”</span>, a <span className="font-semibold text-[#38BDF8]">Dockerized MEAN-stack</span> second-hand phone marketplace, using <span className="font-semibold text-[#38BDF8]">MongoDB</span> for data management. Implemented <span className="font-semibold text-[#38BDF8]">Angular interfaces</span> and <span className="font-semibold text-[#38BDF8]">Express/TypeScript APIs</span> for search, authentication, cart/checkout, wishlist, reviews, user listings, and admin management, improving end-to-end usability and data handling.
         </>
       ),
       image: eComerceWebProjectImg,
-      tags: ['Full-stack', 'MEAN Stack', 'MVC Architecture', 'SPA Principle', 'Data Security'],
+      tags: ['Full-stack', 'MEAN Stack', 'Docker', 'RESTful API', 'MVC Architecture', 'Authentication'],
       presentation: OldPhoneWebAppPresentationPdf,
     },
   ];
