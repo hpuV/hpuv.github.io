@@ -60,13 +60,14 @@ export default function CV() {
             <div className="relative pl-8 border-l-2 border-border space-y-8">
               <div className="relative">
                 <div className="absolute -left-[41px] top-1 w-5 h-5 rounded-full bg-bg border-4 border-secondary/20"></div>
-                <h4 className="text-lg font-bold text-text">Quality Control Inspector</h4>
-                <p className="text-purple-600  font-medium mb-2">SENDEX</p>
-                <p className="text-secondary text-sm mb-3">Dec. 2024 ~ Feb. 2025 | Sydney, Australia</p>
+                <h4 className="text-lg font-bold text-text">AI / Big Data Engineer (RDSS)</h4>
+                <p className="text-purple-600  font-medium mb-2">Vanguard International Semiconductor Corporation</p>
+                <p className="text-secondary text-sm mb-3">Sep. 2026 ~ | Hsinchu, Taiwan</p>
                 <ul className="list-disc list-inside text-text-muted space-y-1">
-                  <li>Inspected and verified returned products to ensure compliance with quality standards, maintaining a high level of accuracy and attention to detail.</li>
-                  <li>Unpacked, repackaged, labelled items, and prepared shipments for return to headquarters within strict turnaround times.</li>
-                  <li>Communicated effectively with team members to resolve discrepancies, ensuring smooth workflow and reducing processing delays.</li>
+                  <li>Enhanced wafer defect map classification and clustering algorithms, boosting model accuracy, processing efficiency, and overall manufacturing yield.</li>
+                  <li>Engineered and deployed scalable AI and Big Data algorithmic models to drive automated decision-making.</li>
+                  <li>Analyzed complex datasets to identify actionable business insights and continuous process improvement opportunities.</li>
+                  <li>Promoted internal adoption of AI and Big Data technologies through cross-functional technical mentorship.</li>
                 </ul>
               </div>
               <div className="relative">
@@ -78,17 +79,6 @@ export default function CV() {
                   <li>Optimised Reversible Data Hiding (RDH) algorithms to enhance data embedding capacity (EC) by 13%, ensuring image data integrity.</li>
                   <li>Synthesized research from multiple journals to identify and evaluate optimal methodologies.</li>
                   <li>Established a standardized literature review process that improved the precision of experiment reproduction and validation.</li>
-                </ul>
-              </div>
-              <div className="relative">
-                <div className="absolute -left-[41px] top-1 w-5 h-5 rounded-full bg-bg border-4 border-secondary/20"></div>
-                <h4 className="text-lg font-bold text-text">Process Engineer</h4>
-                <p className="text-purple-600  font-medium mb-2">Unimicron Technology Corp.</p>
-                <p className="text-secondary text-sm mb-3">Jul. 2021 ~ Aug. 2021 | Hsinchu, Taiwan</p>
-                <ul className="list-disc list-inside text-text-muted space-y-1">
-                  <li>Performed precision grinding and polishing to prepare IC chip cross-sections for detect analysis.</li>
-                  <li>Examined microstructures under microscopy to detect issues such as metal interconnect failures and interlayer anomalies.</li>
-                  <li>Applied high attention to detail and technical accuracy to support production quality and reduce defect recurrence.</li>
                 </ul>
               </div>
             </div>
