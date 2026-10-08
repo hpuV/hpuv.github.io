@@ -28,8 +28,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-text mb-1">Email</h3>
-                  <a href="mailto:andy1105yo@gmail.com" className="text-text-muted hover:text-primary transition-colors text-lg">
-                    andy1105yo@gmail.com
+                  <a href="mailto:caliu8@outlook.com" className="text-text-muted hover:text-primary transition-colors text-lg">
+                    caliu8@outlook.com
                   </a>
                 </div>
               </div>
