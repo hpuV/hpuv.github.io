@@ -2,6 +2,7 @@
   "name": "portfolio-website",
   "homepage": "https://hpuv.github.io/",
   "private": true,
+  "license": "UNLICENSED",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
